@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+body {
+    background-image: url(../images/tweed.png);
+}
+
+#wrapper {
+    width: 950px;
+    height: 650px;
+    margin: auto;
+}
+
+#wrapper #header {
+    height: 50px;
+    padding-top: 15px;
+}
+
+#wrapper #header h1 {
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+}
+
+#wrapper #p1 {
+    width: 800px;
+    height: 90px;
+    background-color: #ed8f60;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+#wrapper #p2 {
+    width: 800px;
+    height: 80px;
+    background-color: #bf406a;
+    margin-top: 10px;
+    padding-top: 12px;
+    padding-bottom: 20px;
+    margin-left: 139px;
+}
+
+#wrapper #p3 {
+    width: 800px;
+    height: 100px;
+    background-color: #692a6f;
+    margin-top: 10px;
+    padding-top: 12px;
+    padding-left: 20px;
+}
+
+#wrapper #p4 {
+    width: 800px;
+    height: 80px;
+    background-color: #2c1f47;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding-top: 12px;
+    padding-bottom: 20px;
+    margin-left: 139px;
+}
+
+#wrapper #p1 p {
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+#wrapper #p2 p {
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+#wrapper #p3 p {
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+#wrapper #p4 p {
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+#wrapper #p1 p img {
+    height: auto;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#wrapper #p2 p img {
+    height: auto;
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#wrapper #p3 p img {
+    height: auto;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#wrapper #p4 p img {
+    height: auto;
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
